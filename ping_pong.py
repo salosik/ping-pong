@@ -7,7 +7,7 @@ FPS = 60
 
 
 
-bg = ((0,175,70))
+bg = ((0,255,15))
 window = display.set_mode((WIDTH,HEIGHT))
 display.set_caption('ping-pong')
 clock = time.Clock()
